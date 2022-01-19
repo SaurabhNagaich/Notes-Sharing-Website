@@ -94,7 +94,6 @@ PyScreeze==0.1.28
 python-dateutil==2.8.1
 pyttsx3==2.90
 pytweening==1.0.4
-pytz==2021
 pywin32-ctypes==0.2.0
 pywinpty==1.1.2
 pyzmq==22.1.0
